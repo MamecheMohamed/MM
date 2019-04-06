@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Webp.net-resizeimage222.jpg</file>
+    <file>56178502_2285227635098872_8815854441614802944_n.png</file>
+    <file>Webp.net-resizeimage.jpg</file>
+    <file>56237491_264594491117454_6294432180407894016_n.png</file>
+    <file>56408500_1076002912607597_6883167661480476672_n.png</file>
+    <file>56440222_308193143158283_1138451021052248064_n.png</file>
+    <file>56589696_2090984727686960_8305382584754372608_n.png</file>
+    <file>56619860_2408290069182223_4179440299304550400_n.png</file>
+    <file>icons8-cancel-100.png</file>
+    <file>ComingSoon1-01.jpg</file>
+    <file>icons8-list-100.png</file>
+    <file>icons8-plus-100.png</file>
+    <file>icons8-search-100.png</file>
+  </qresource>
+</RCC>
